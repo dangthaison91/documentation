@@ -3,4 +3,5 @@
 * [Getting started](README.md)
 * [Dependencies](dependencies.md)
 * [Up](up.md)
+* [Managing versions](managing-versions.md)
 
