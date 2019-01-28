@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Getting started](README.md)
-* [Dependencies](dependencies.md)
-* [Up](up.md)
-* [Managing versions](managing-versions.md)
-
+* [Usage](usage/README.md)
+  * [Dependencies](usage/dependencies.md)
+  * [Up](usage/up.md)
+  * [Managing versions](usage/managing-versions.md)
+* [Contribution](contribution/README.md)
