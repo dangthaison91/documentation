@@ -5,7 +5,7 @@ description: setup for developing Tuist
 # Setup
 
 Tuist is a Swift package which requires [Swift Package Manager](https://swift.org/package-manager/) (Swift PM) to build and develop it. If you already have [Xcode](https://developer.apple.com/xcode/) installed, then you are set! See the [Swift PM installation section](https://github.com/apple/swift-package-manager#installation) for details on alternate methods of setting it up.
-Getting
+
 # Building 
 
 To build Tuist, you can run the `build` command:
