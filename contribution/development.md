@@ -1,8 +1,5 @@
-# docs
-
 ---
-description: >-
-  Getting setup for developing Tuist
+description: Getting set up for developing Tuist
 ---
 
 # Setup
